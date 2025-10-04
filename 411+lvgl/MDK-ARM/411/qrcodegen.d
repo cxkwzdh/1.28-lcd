@@ -1,0 +1,9 @@
+411\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.c
+411\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+411\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+411\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+411\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+411\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.h
+411\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+411\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+411\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
